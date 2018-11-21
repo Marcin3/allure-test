@@ -1,0 +1,9 @@
+{
+  "version": "5.1.1",
+  "deviceName": "Xiomi",
+  "udid": "68a0e62f",
+  "platformName": "Android",
+  "appPackage": "com.android.vending",
+  "appActivity": "com.android.vending.AssetBrowserActivity",
+  "autoGrantPermissions": true
+}
