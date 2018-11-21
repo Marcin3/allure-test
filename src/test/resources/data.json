@@ -1,0 +1,9 @@
+{
+  "name": "Krzysztof",
+  "language": "Java",
+  "location": "here",
+  "personal": {
+    "age": 22,
+    "hobby": "super hobby"
+  }
+}
