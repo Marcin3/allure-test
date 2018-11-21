@@ -22,7 +22,7 @@ import io.appium.java_client.remote.MobileCapabilityType;
 import com.szkolenie.appium.pages.SearchPO;
 
 
-public class FirstAppium {
+public class FirstAppiumTest {
 	private SearchPO searchPO;
 	
 	@BeforeMethod
